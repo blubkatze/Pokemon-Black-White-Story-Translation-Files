@@ -1,15 +1,15 @@
-ヤナップ　バオップ　ヒヤップ　の\xfffe３びきは　とくべつな　いしで\xf000븀\x0000しんかをする　ポケモンなんだ！\xf000븁\x0000きみなら　どの　ポケモンを\xfffeしんか　させてみたい？
-ヤナップ　か……\xfffeそれじゃあ　リーフのいし　だね\xf000븁\x0000
-バオップ　か……\xfffeそれじゃあ　ほのおのいし　だね\xf000븁\x0000
-ヒヤップ　か……\xfffeそれじゃあ　みずのいし　だね\xf000븁\x0000
-きみが　しっているか　しらないか\xfffeぼくには　わからないが　アドバイス！\xf000븁\x0000ポケモンは　しんか　すると\xfffeちからづよく　なるけれど　かわりに\xf000븀\x0000わざを　おぼえにくくなる\xf000븁\x0000とくに　いしで　しんか　する\xfffeポケモンは　その　けいこうが　つよい\xf000븁\x0000なので　いい　わざを　おぼえてから\xfffeいしを　つかって　しんか　させるか\xf000븁\x0000さっさと　いしで　しんか　させてから\xfffeわざマシンで　わざを　おぼえさせるか\xf000븀\x0000それは　きみに　おまかせさ！
-ヤナップ
-バオップ
-ヒヤップ
+﻿Yanapuu, Baoppu, and Hiyappu...\xfffeThese three Pokémon evolve\xf000븀\x0000with the use of special stones!\xf000븁\x0000Which of those Pokémon\xfffedo you want to evolve?
+Yanappu...\xfffeThen you'll need a Leaf Stone.\xf000븁\x0000
+Baoppu...\xfffeThen you'll need a Fire Stone.\xf000븁\x0000
+Hiyappu...\xfffeThen you'll need a Water Stone.\xf000븁\x0000
+I don't know if you already knew this,\xfffebut here's some advice!\xf000븁\x0000If you evolve your Pokémon,\xfffeit'll get stronger, but it'll also be\xf000븀\x0000harder for it to learn moves.\xf000븁\x0000It's especially a problem for\xfffePokémon that evolve with stones.\xf000븁\x0000It's best to use a stone after the\xfffePokémon has learned some good moves.\xf000븁\x0000And as soon as you evolve it,\xfffeperhaps you could use some TMs?\xf000븀\x0000I leave it up to you!
+Yanappu
+Baoppu
+Hiyappu
 Quit
-ヤナップ　なんだね？
-バオップ　なんだね？
-ヒヤップ　なんだね？
-じゃあ　きみなら\xfffeヤナップ　バオップ　ヒヤップ　の\xf000븀\x0000どの　ポケモンを\xf000븀\x0000しんか　させてみたい？
-うん　そうだね\xf000븁\x0000えらぶのは　むずかしいよね\xfffeきまったら　また　はなしてよ！
-おやゆびを　うえに　むけ\xfffeそれいがいの　ゆびを　にぎりしめる\xf000븁\x0000それが　サムズアップの　ポーズ\xfffeオーケーや　グッドって　ことさ！
+Yanappu, huh?
+Baoppu, huh?
+Hiyappu, huh?
+Well then...\xfffeYanapuu, Baoppu, and Hiyappu...\xf000븀\x0000Which do you want to evolve?
+Oh, all right.\xf000븁\x0000I know it can be hard to decide.\xfffeWhen you've chosen, talk to me again!
+Stick your thumb upward,\xfffeand clench the rest of your fingers...\xf000븁\x0000That's the "thumbs up" pose!\xfffeIt means "okay!" or "good!"

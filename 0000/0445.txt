@@ -1,13 +1,13 @@
-ここは　カゴメタウン\xfffeカゴメは　あんでできた　さんかくけい
-ここは　カゴメタウン\xf000븁\x0000おはようから　おやすみまで\xfffeきそく　ただしく　くらす　まちよ\xf000븁\x0000たいようの　ひかりを　いっぱい\xfffeあびて　せいかつすれば\xf000븀\x0000よるも　ぐっすり　ねむれるわ
-ちょいと　そこの　たびびとさんや\xfffeカゴメ　むかし　ばなしでも\xf000븀\x0000きいて　いかんかね？\xf000븁\x0000バーさんの　はなし　じゃから\xfffeちと　ながくなるがな
-この　まちの　うらには　ものすごーく\xfffeでっかい　あなが　あいとるんじゃ\xf000븁\x0000そのあなはな　むかし　むかし\xfffeそらから　おおきな　いんせきが\xf000븀\x0000ふってきて　できた　そうじゃ\xf000븁\x0000そして　その　いんせきの　なかには\xfffeよにも　おそろしい　ばけもんが\xf000븀\x0000ひそんで　おったそうな……\xf000븁\x0000ばけもんは　ばんに　なると\xfffeつめたい　かぜと　ともに\xf000븀\x0000ひとざとに　あらわれては\xf000븀\x0000ひとや　ポケモンを　とって\xf000븀\x0000くらうと　いわれとった……\xf000븁\x0000じゃから　むかしの　もんは\xfffeまちを　へいでかこって　ばけもんが\xf000븀\x0000はいって　こられんように　したり\xf000븁\x0000ひが　くれたら　おもてに　でるのを\xfffeきんじて　うちで　すごすことを\xf000븀\x0000まちの　おきてに　したそうじゃ\xf000븁\x0000
-……　……　……　……　……\xfffeま　いまじゃ　こんな　はなしなぞ\xf000븀\x0000だれも　しんじとらん\xf000븁\x0000じゃけどな……\xf000븁\x0000いまでも　カゴメに　すんどる　もんは\xfffeばんに　なったら　ちゃんと　うちに\xf000븀\x0000かえるから　ふしぎ　じゃろ？\xf000븁\x0000むかしばなしや　ふるい　いいつたえ\xfffeちゅうもんは　いまの　せいかつに\xf000븀\x0000なにかしらの　えいきょうを\xf000븀\x0000あたえとる　っちゅうことかのう
-ああ　そうかいな\xfffeヒマに　なったら　また　くるとええ
-よるに　なると　おおきな　あなから\xfffeこわーい　おばけが　でてくるから\xf000븀\x0000おうちに　かえって　おとなしく\xf000븀\x0000してないと　ダメなんだって！
-このさきの　どうろには　つりずきには\xfffeたまらん　わんがんが　ひろがっとる\xf000븁\x0000きょうも　あしたも　じまんの\xfffeサオが　ビンビンと　うなるわい！
-オイラの　バーちゃん\xfffeむかしばなしが　すきでよ\xf000븀\x0000しょっちゅう　なげー　はなしに\xf000븀\x0000つきあわされるんだぜ
-よのなか　たくさんの　ひとがいて\xfffeそのひとの　かずだけ　こせいや\xf000븀\x0000かんがえが　あるんだよね
-ほんかん　ここに　ふにんしてから\xfffeなーんも　することが　ないのだ\xf000븁\x0000よるは　そとに　だれも　いないし\xfffeへいわ　そのもの　だからなー
-グッグ！　グッグ！
-オレの　ポケモン　いつも　かってに\xfffeあそびに　いっちまうんだよ
+﻿Kagome Town\xfffeA peacefully-constructed triangle!
+This is Kagome Town...\xf000븁\x0000Where people live properly\xfffefrom good morning to good night...\xf000븁\x0000When we live bathing\xfffein the light of the sun,\xf000븀\x0000we sleep soundly in the night.
+Just a second, traveler!\xfffeWant me to tell you\xf000븀\x0000about the history of Kagome Town?\xf000븁\x0000As an old woman's tale,\xfffeit might get a little long...
+There is a very, very large\xfffehole under this town.\xf000븁\x0000That hole was formed long, long ago,\xfffewhen a great meteor fell from the sky.\xf000븁\x0000And in the meteor, there lurked\xfffea most fearful beast...\xf000븁\x0000It is said the beast would appear at\xfffenight, bringing a cold wind with it,\xf000븀\x0000and take people and Pokémon alike...\xf000븀\x0000to devour them!\xf000븁\x0000So the ancient people built\xfffea wall to keep the beast out.\xf000븁\x0000And to stay inside when the sun\xfffewas set became a law of the town...\xf000븁\x0000
+... ... ... ... ...\xfffeWell, no one really believes\xf000븀\x0000in such a tale anymore.\xf000븁\x0000However...\xf000븁\x0000To this day, the people of Kagome\xfffealways make sure to get home\xf000븀\x0000at night... curious, isn't it?\xf000븁\x0000Just how much of our lives today\xfffeis influenced by legends and tradition?
+Ah, I see...\xfffeIf you have time, do come again!
+When night falls, a big bad\xfffemonster comes out of the hole,\xf000븀\x0000so you better just come home!
+On the route ahead, lovers of fishing\xfffespread across the coast!\xf000븁\x0000Today and tomorrow, they'll be throwing\xfffeout and pulling in their rods!
+My granny loves her old legends...\xfffeAnd they always take forever!
+There are many people in the world.\xfffeAnd every one of those people\xf000븀\x0000has their own personality and ideas...
+Ever since I got appointed here,\xfffeI haven't had to do a thing!\xf000븁\x0000There's not a soul out at night...\xfffeIt's the picture of peace!
+Goo-goo! Goo-goo!
+My Pokémon always go off\xfffeto play on their own...
